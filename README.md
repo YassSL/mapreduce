@@ -1,0 +1,2 @@
+# MapReduce problem implemented using Hadoop
+Given a matrix of different types of plants versus different types of pests, where each value, m_ij represents the probability of harm caused by pest j to plant i, the program computes the similarity factor of vulnerability between any two plants using MapReduce jobs in Hadoop. The similarity factor between any two smaples is defined as the sum of products of each pest's propability of harm to a plant.        
